@@ -1,4 +1,4 @@
-.box_1{
+.box{
     /* créer la longueur */
     height: 40px;
     /* créer la hauteur */
@@ -11,7 +11,22 @@
     margin: 10px;
     background-color: pink;
 }
+.bordure{
+    border-bottom: solid black 2px;
+}
 .exo_1{
     display: flex;
-    border-bottom: solid black 2px;
+   
+}
+.exo_2{
+    display: flex;
+    justify-content: space-between;
+    }
+.exo_3{
+    display: flex;
+    justify-content: center;
+}
+.exo_4{
+    display: flex;
+    
 }
