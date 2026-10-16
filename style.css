@@ -1,0 +1,17 @@
+.box_1{
+    /* créer la longueur */
+    height: 40px;
+    /* créer la hauteur */
+    width: 40px;
+    /* mettre une couleur sur les contours */
+    border: solid black 4px;
+    /* arrondir les bordure */
+    border-radius: 10px;
+    /* mettre des marge */
+    margin: 10px;
+    background-color: pink;
+}
+.exo_1{
+    display: flex;
+    border-bottom: solid black 2px;
+}
